@@ -1,0 +1,348 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dz3phokcm/image/upload/v1740935846/pexels-enginakyurt-13967628_i4d3z1.jpg"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "Esspersso"
+    },
+    {
+      "id": 1,
+      "title": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "title": "Cold Drinks"
+    },
+    {
+      "id": 3,
+      "title": "Tea"
+    },
+    {
+      "id": 4,
+      "title": "Hot Chocolate"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "1",
+      "description": "This seasonal latte blends espresso, pumpkin spice, milk, and a hint of cinnamon—perfect for cozy autumn moments.",
+      "extra": "Espresso, steamed milk, pumpkin spice syrup, cinnamon.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Pumpkin_Latte.jpeg?alt=media&token=77323cba-535f-4a2c-b48f-cf40d7a68cb3"
+      ],
+      "price": 5.5,
+      "rating": 4.6,
+      "title": "Pumpkin Latte"
+    },
+    {
+      "categoryId": "1",
+      "description": "A strong espresso topped with a touch of milk foam, ideal for those who love intense flavor with a smoother finish.",
+      "extra": "Espresso, milk foam",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Macchiato.jpg?alt=media&token=373050be-a378-4c0a-bf43-1a64c61cbd9f"
+      ],
+      "price": 3.5,
+      "rating": 4.6,
+      "title": "Macchiato"
+    },
+    {
+      "categoryId": "1",
+      "description": "A vibrant and healthy choice, the Matcha Latte blends premium matcha green tea with steamed milk for a creamy, refreshing twist on the classic latte.",
+      "extra": "Matcha powder, steamed milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Matcha_Latte.jpg?alt=media&token=570104bb-f8a1-4635-bb25-183c17934ca1"
+      ],
+      "price": 5,
+      "rating": 4.6,
+      "title": "Matcha Latte"
+    },
+    {
+      "categoryId": "1",
+      "description": "A smooth blend of espresso and warm milk, the cortado offers the perfect balance of intensity for coffee lovers who enjoy a touch less milk.",
+      "extra": "Espresso, steamed milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Cortado.jpg?alt=media&token=9c94c1f2-00e4-47a3-8839-ad27c4177977"
+      ],
+      "price": 3.75,
+      "rating": 4.6,
+      "title": "Cortado"
+    },
+    {
+      "categoryId": "1",
+      "description": "A delicious Italian dessert, the affogato combines creamy vanilla ice cream with hot espresso for a perfect balance of hot and cold.",
+      "extra": "Espresso, vanilla ice cream",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Affogato.jpg?alt=media&token=e890fbf2-2cf8-4ad1-846e-46d6b6bc4437"
+      ],
+      "price": 6,
+      "rating": 4.6,
+      "title": "Affogato"
+    },
+    {
+      "categoryId": "2",
+      "description": "A refreshing citrus blend of fresh orange juice, offering a perfect balance of sweetness and tanginess—ideal for quenching your thirst on a warm day.",
+      "extra": "Fresh orange juice, sugar, water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Naranja.webp?alt=media&token=28e8e30b-1c99-4f46-a295-c6c923721ba6"
+      ],
+      "price": 4.5,
+      "rating": 4.6,
+      "title": "Naranja"
+    },
+    {
+      "categoryId": "2",
+      "description": "A soothing blend of exotic herbs and spices, Estra Astar offers an aromatic, floral sweetness—perfect for a relaxing moment anytime.",
+      "extra": "Green tea, star anise, cinnamon, honey, lemon",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Estra_Astar.jpg?alt=media&token=c56f173b-61d5-4fd9-983d-2c06945d0ab4"
+      ],
+      "price": 5,
+      "rating": 4.6,
+      "title": "Estra Astar"
+    },
+    {
+      "categoryId": "2",
+      "description": "A refreshing blend of mint, lime, and sparkling water with a hint of sweetness, this classic mojito is perfect for those who enjoy light, zesty flavors.",
+      "extra": " Fresh mint leaves, lime juice, sugar, soda water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Mojito.jpg?alt=media&token=3f00b569-4f7a-4951-b7c8-4e4b5a4d2c1c"
+      ],
+      "price": 6,
+      "rating": 4.6,
+      "title": "Mojito"
+    },
+    {
+      "categoryId": "2",
+      "description": "Our refreshing lemonade, made with freshly squeezed lemons and the perfect amount of sugar, offers a sweet, tangy, and zesty flavor—ideal for a cool, refreshing drink.",
+      "extra": "Fresh lemon juice, sugar, water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Lemonade.jpg?alt=media&token=6189add7-f92d-4a3c-b4ba-1580eca38171"
+      ],
+      "price": 4,
+      "rating": 4.6,
+      "title": "Lemonade"
+    },
+    {
+      "categoryId": "2",
+      "description": "Made with freshly squeezed lemons and just the right amount of sugar, our lemonade delivers a sweet, tangy, and zesty flavor—perfect for a refreshing, cool drink.",
+      "extra": "Fresh ginger, lime juice, honey, soda water, ice",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Green_Ginger.webp?alt=media&token=1c2b84fe-0951-48af-859e-a6dff4ca88ae"
+      ],
+      "price": 5.5,
+      "rating": 4.6,
+      "title": "Green Ginger"
+    },
+    {
+      "categoryId": "3",
+      "description": "A classic black tea, served hot to warm your senses—perfect for a cozy afternoon or a morning pick-me-up.",
+      "extra": "Black tea leaves, hot water",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Simple_Tea.jpg?alt=media&token=90b3ea53-8ca6-45b6-81c5-23780722da2f"
+      ],
+      "price": 2,
+      "rating": 4.6,
+      "title": "Simple Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "This light and aromatic green tea, rich in antioxidants, offers a calming, natural energy boost—an ideal choice to start or end your day.",
+      "extra": "Green tea leaves, hot water",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Green_Tea.jpg?alt=media&token=8bac2590-30ed-41aa-8625-7422d96e13eb"
+      ],
+      "price": 2.5,
+      "rating": 4.6,
+      "title": "Green Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "This herbal tea blends floral and fruity notes with a touch of sweetness, evoking the beauty of a sunset. Caffeine-free, it offers a calming and soothing experience.",
+      "extra": "Hibiscus, rose hips, chamomile, orange peel, dried apple, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Victoria_Sunset_Herbal_Tea.webp?alt=media&token=c65b71e8-142c-40a6-a631-96ebf804b7d1"
+      ],
+      "price": 3,
+      "rating": 4.6,
+      "title": "Victoria Sunset Herbal Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "A berry-infused herbal tea with a bold, fruity flavor, ideal for berry lovers. This caffeine-free blend strikes the perfect balance of sweet and tart in a refreshing brew.",
+      "extra": "Hibiscus, elderberry, blackberry leaves, rose hips, dried berries, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Queen_Berry_Herbal_Tea.webp?alt=media&token=98660d86-9618-47b8-af8d-25c499fb6c40"
+      ],
+      "price": 3.2,
+      "rating": 4.6,
+      "title": "Queen Berry Herbal Tea"
+    },
+    {
+      "categoryId": "3",
+      "description": "This comforting tea combines the sweetness of apples with a dash of cinnamon and spices, creating the perfect cozy drink for fall. Caffeine-free and rich in fruity flavors.",
+      "extra": "Dried apple, cinnamon, hibiscus, rose hips, clove, natural flavors",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Apple_Paradise_Herbal_Tea.webp?alt=media&token=d7f25614-ab46-43ff-9356-218f38653d7e"
+      ],
+      "price": 3,
+      "rating": 4.6,
+      "title": "Apple Paradise Herbal Tea"
+    },
+    {
+      "categoryId": "0",
+      "description": "A strong espresso shot packed with rich, bold flavors.",
+      "extra": "Espresso, water",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Espresso_Classic.jpeg?alt=media&token=1ba36d8d-5cfe-480b-9fe7-7c7464b32e1c"
+      ],
+      "price": 2.5,
+      "rating": 4.7,
+      "title": "Espresso Classic"
+    },
+    {
+      "categoryId": "0",
+      "description": "Espresso topped with a smooth layer of creamy milk.",
+      "extra": "Espresso, steamed milk, foam",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Espresso_Macchiato.jpg?alt=media&token=65659881-8311-44ed-b5fe-37bc3088a19e"
+      ],
+      "price": 3,
+      "rating": 4.5,
+      "title": "Espresso Macchiato"
+    },
+    {
+      "categoryId": "0",
+      "description": "Double shot espresso for an extra strong flavor.",
+      "extra": "Double espresso",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Double_Espresso.webp?alt=media&token=a574f873-d171-4530-ac6a-e22370a3cb2f"
+      ],
+      "price": 3,
+      "rating": 4.8,
+      "title": "Double Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "Espresso with a touch of vanilla sweetness.",
+      "extra": "Espresso, vanilla syrup",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Vanilla_Espresso.webp?alt=media&token=a3220bd5-c02c-40b2-826e-28c4b4f9224c"
+      ],
+      "price": 3.5,
+      "rating": 4.6,
+      "title": "Vanilla Espresso"
+    },
+    {
+      "categoryId": "0",
+      "description": "A mix of espresso and hot chocolate.",
+      "extra": "Espresso, hot chocolate",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Espresso%20_Hot_Chocolate.webp?alt=media&token=96b139ec-7ea1-467f-8082-880bd40ae847"
+      ],
+      "price": 4,
+      "rating": 4.7,
+      "title": "Espresso Hot Chocolate"
+    },
+    {
+      "categoryId": "4",
+      "description": "A rich, creamy hot chocolate crafted with real cocoa.",
+      "extra": "Cocoa, milk, sugar",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Classic_Hot_Chocolate.jpg?alt=media&token=a3ade66d-33c2-4c15-87ed-6de81bba18a2"
+      ],
+      "price": 3.5,
+      "rating": 4.8,
+      "title": "Classic Hot Chocolate"
+    },
+    {
+      "categoryId": "4",
+      "description": "Hot chocolate with a touch of cinnamon and spice.",
+      "extra": "Cocoa, milk, cinnamon",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Spiced_Hot_Chocolate.jpg?alt=media&token=1d19c6ec-89af-4242-b63e-be46da3f0bd1"
+      ],
+      "price": 4,
+      "rating": 4.7,
+      "title": "Spiced Hot Chocolate"
+    },
+    {
+      "categoryId": "4",
+      "description": "Hot chocolate with whipped cream on top.",
+      "extra": "Cocoa, milk, whipped cream",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Whipped_Cream_Hot_Chocolate.jpeg?alt=media&token=24090c7b-9c94-411e-8c66-e31b0476bf44"
+      ],
+      "price": 4.5,
+      "rating": 4.6,
+      "title": "Whipped Cream Hot Chocolate"
+    },
+    {
+      "categoryId": "4",
+      "description": "Hot chocolate with marshmallows for added sweetness.",
+      "extra": "Cocoa, milk, marshmallows",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Marshmallow_Hot_Chocolate.jpg?alt=media&token=7df41887-2b87-4904-9ba6-2745d0362433"
+      ],
+      "price": 4.5,
+      "rating": 4.7,
+      "title": "Marshmallow Hot Chocolate"
+    },
+    {
+      "categoryId": "4",
+      "description": "Hot chocolate with a dash of peppermint.",
+      "extra": "Cocoa, milk, peppermint",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Peppermint_Hot_Chocolate.webp?alt=media&token=32dabcd7-24d0-4edc-9d50-50a5d72d41a4"
+      ],
+      "price": 4,
+      "rating": 4.8,
+      "title": "Peppermint Hot Chocolate"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Cappuccino is a classic Italian coffee made with equal parts espresso, steamed milk, and milk foam. The bold espresso flavor is balanced by the creamy milk and light foam, often topped with a dusting of cocoa or cinnamon.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Cappoccino.jpg?alt=media&token=b58103f1-0626-4515-a8d5-b73994d8e039"
+      ],
+      "price": 12,
+      "rating": 5,
+      "title": "Cappoccino"
+    },
+    {
+      "description": "Espresso is a strong, concentrated coffee made by forcing hot water through finely ground beans, producing a rich flavor with a creamy layer of crema.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/espersso.jpg?alt=media&token=a296f6bf-2993-4419-8020-411786ff2cc0"
+      ],
+      "price": 16,
+      "rating": 5,
+      "title": "Espersso"
+    },
+    {
+      "description": "Espresso is a concentrated coffee served in small, strong shots, made by forcing hot water through finely ground beans under high pressure. It has a rich flavor with a creamy layer called crema.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/Affogato.jpg?alt=media&token=e890fbf2-2cf8-4ad1-846e-46d6b6bc4437"
+      ],
+      "price": 16,
+      "rating": 5,
+      "title": "Affagato"
+    },
+    {
+      "description": "Espresso is a strong, concentrated coffee served in small shots, made by forcing hot water through finely ground beans under high pressure. It has a rich flavor with a creamy layer called crema.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/coffejava-d6585.firebasestorage.app/o/americano.jpg?alt=media&token=58ed19cc-3673-4b22-9ada-036251cb92a2"
+      ],
+      "price": 24,
+      "rating": 5,
+      "title": "Americano"
+    }
+  ]
+}
